@@ -30,7 +30,7 @@ This project provides a novel approach in Karnataka's electricity billing system
 - Clone the GitHub Project
     
 ```bash
-  git clone https://github.com/your-username/your-project.git
+  [git clone https://github.com/your-username/your-project.git](https://github.com/Abdul-Rahman-9040/electricity-bill.git)
 ```
 **1.Move to XAMPP htdocs:**
 
