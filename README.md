@@ -20,6 +20,9 @@ This project provides a novel approach in Karnataka's electricity billing system
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat&logo=mysql&logoColor=white&logoWidth=40)
 ![PHP](https://img.shields.io/badge/PHP-%777BB4.svg?style=flat&logo=php&logoColor=white&logoWidth=40)
 ![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=flat&logo=apache&logoColor=white&logoWidth=40)
+## Report
+[Report](https://github.com/user-attachments/files/16555297/final.report.pdf)
+
 
 ## Prerequisites
 
